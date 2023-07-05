@@ -1,0 +1,38 @@
+.mainHeader{
+    width: 100%;
+    background-color: white;
+    height: 87px;
+    border: 1px solid;
+    border-color: #e2e2e2;
+    margin-bottom: 20px;
+
+}
+.headerTop{
+    display: flex;
+    justify-content: space-between;
+}
+.icon-zhedie{
+
+}
+.tabs{
+    height: 35px;
+    border: 1px solid;
+    border-color: #e2e2e2;
+}
+.el-tabs__nav-scroll{
+    height: 35px;
+}
+.el-tabs--card>.el-tabs__header{
+    height: 35px;
+}
+.el-tabs__new-tab{
+    display: none;
+}
+.headerRight{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.lock{
+    margin-right: 25px;
+}

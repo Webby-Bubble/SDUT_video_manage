@@ -1,0 +1,11 @@
+.queryDiv{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+.queryTitle{
+    width: 24vh;
+}
+.queryButton{
+    margin-left: 20px;
+}

@@ -1,0 +1,37 @@
+.reportName{
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.buttonBottom{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.reportContent{
+    background-color: #e5e3e3;
+    padding: 20px;
+}
+.reporTitle{
+    background-color: #e5e3e3;
+    padding-left: 10px;
+    width: 10vw;
+}
+.hzTitle{
+    font-size: 15px;
+    font-weight: 600;
+}
+.examineSuccess{
+    position: absolute;
+    font-size: 180px;
+    color: #44c04491;
+    top: 0;
+    right: 75px;
+}
+.examineSError{
+    position: absolute;
+    font-size: 180px;
+    color: #b4b4b491;
+    top: 0;
+    right: 75px;
+}
